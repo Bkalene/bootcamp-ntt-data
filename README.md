@@ -1,1 +1,1 @@
-# bootcamp-ntt-data
+# Repositório de exercícios e projetos do bootcamp NTT-DATA e DIO
